@@ -1,0 +1,25 @@
+/* ----------------
+  5. About section
+---------------------*/
+
+.about-section {
+	padding-left: 227px;
+}
+
+.about-content-warp {
+	max-width: 470px;
+}
+
+.about-content-warp h2 {
+	font-size: 48px;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+
+.about-content-warp p {
+	margin-bottom: 40px;
+}
+
+.about-content-warp.text-white p {
+	opacity: 0.5;
+}
